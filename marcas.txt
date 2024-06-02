@@ -1,0 +1,49 @@
+<HTML>
+
+<HEAD>
+<TITLE>      Marcas      </TITLE>
+
+<BODY bgcolor="black">
+
+<p align="center"><font size="6" color="red" face="Arial black">Grupo Pepsico</font></p>
+
+<hr size="20" noshade align="center" width="100%" color="blue">
+
+<table align="center" width="600" height="300">
+
+<tr>
+<td><img width="200" height="200" src="quaker.JPG"></td>
+<td align="justify"><font size="3" color="white" face="arial black">Quaker® no solo es lider en el mercado de avenas, con marcas tan solidas como 3 Minutos® y Quaker Instant®, 
+sino también ha logrado expandir sus hori- zontes hacia categorias como cereales, galletas, ba- rras, granolas, snacks y, mas recientemente, a leches saborizadas y atoles.</font></td>
+</tr>
+
+
+<tr>
+<td><img width="200" height="200" src="sabritas.JPG"></td>
+<td align="justify"><font size="3" color="white" face="arial black">Empresa dedicada a la manufactura, venta y distribucion de dulces y botanas incluyendo botanas industriales de semilla y frituras. Pertenece al grupo de empresas encabezado por PepsCo, Inc, corporacion multinacional cuyos negocios son las bebidas carbonatadas, la comida rapida y los restaurantes.</font></td>
+</tr>
+
+
+<tr>
+<td><img width="200" height="200" src="mafer.PNG"></td>
+<td align="justify"><font size="3" color="white" face="arial black">El Cacahuate Mafer de estilo japones con sal y sabor a limon, está elaborado en horno, por lo que no contiene grasas trans ni aceites añadidos. Ideal para agregar en tus ensaladas o consumir como snack. Mafer® te trae una gran variedad de cacahuates seleccionados para deleitarte con la mas alta calidad.</font></td>
+</tr>
+
+
+<tr>
+<td><img width="200" height="200" src="son.JPG"></td>
+<td align="justify"><font size="3" color="white" face="arial black">Sonric's es una marca enfocada primordialmente a los niños, quienes son los principales consumidores de dulces en Mexico. Marcas como Gudu, Tix Tix, Bombiux, etc., son de las favoritas de los niños del pais.</font></td>
+</tr>
+
+
+<tr>
+<td><img width="200" height="200" src="gamesa.JPG"></td>
+<td align="justify"><font size="3" color="white" face="arial black">Como parte de PepsiCo México, Gamesa se distingue por la elaboracion de galletas y alimentos horneados posicionandose, desde hace mas de 80 años, como una de las marcas mas queridas de Mexico, evolucionando de la mano de sus consumidores y convirtiendose en un aliado de millones de familias mexicanas.</font></td>
+</tr>
+ </table>
+
+<p align="center"><img  width="1250" height="200" src="BA1.JPG"></p>
+
+</BODY>
+
+</HTML>

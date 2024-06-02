@@ -1,0 +1,34 @@
+﻿<HTML>
+
+<HEAD>
+<TITLE>   Historia         </TITLE>
+
+<BODY bgcolor="red">
+
+
+<p align="center"><font size="6" face="arial black" color="white">Historia</font></p>
+
+<hr size="20" noshade align="center" width="100%" color="black">
+
+<p align="justify"><font size="4" face="arial " color="white">La historia inicia en 1893 gracias a su inventor el quimico farmaceutico Caleb Davis Bradham, quien preparaba y vendia la bebida en su botica en New Bern, Carolina del Norte en Estados Unidos.</font></p>
+
+<p align="justify"><font size="4" face="arial" color="white">Al principio su bebida era conocida como ‘Brad’s Drink’, y para el año de 1898 decidió llamarla Pepsi Cola, en alusión a la enzima digestiva pepsina y las nueces de cola usadas en la receta, cuyo objetivo era el de crear un refresco de extraordinario sabor que ayudara a la digestión y a la vez fuera un estimulante.</font></p>
+
+<p align="justify"><font size="4" face="arial" color="white">El éxito de su bebida continuó en aumento, por lo que para 1902 solicitó el registro de la marca, y posteriormente fundó una empresa. Un año después trasladó la planta embotelladora a un almacén que alquiló para este propósito, en ese tiempo sus ventas ya eran de 30 mil 162 litros de gaseosa.</font></p>
+
+<p align="justify"><font size="4" face="arial" color="white">Su crecimiento siguió en aumento e incluso para seguir promocionando su marca, en 1909, el piloto de carreras Barney Oldfield fue el primer famoso en promocionar la bebida, describiéndola como “una bebida brava... refrescante, fortalecedora, un agradable estimulante para prepararse para una carrera”.</font></p>
+
+<p align="justify"><font size="4" face="arial" color="white">Aunque las ventas continuaban en lo alto, Caleb Bradham se enfrentó a la bancarrota en 1923 debido al brusco descenso del precio del azúcar después de que el farmacéutico y otros fabricantes compraran el ingrediente en grandes cantidades tras años de subida constante.</font></p>
+
+<p align="justify"><font size="4" face="arial" color="white">Lo anterior llevó a que la compañía pasara a manos de Roy Megargel, quien formó la corporación Pepsi-Cola tras comprar todos los bienes y la marca por 35 mil dólares.</font></p>
+
+<p align="justify"><font size="4" face="arial" color="white">Posteriormente la marca se quedó con Charles Guth, presidente de la fábrica de golosinas Loft Inc., quien reformuló la receta para que Pepsi tuviera el sabor más parecido a Coca-Cola.</font></p>
+
+
+<p align="center"><img  width="1250" height="200" src="BA1.JPG"></p>
+
+
+
+</BODY>
+
+</HTML>
